@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dfs", "Dfs\Dfs.csproj", "{42DE2351-BB87-4DFB-BF72-555A3E154A67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DE2351-BB87-4DFB-BF72-555A3E154A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DE2351-BB87-4DFB-BF72-555A3E154A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DE2351-BB87-4DFB-BF72-555A3E154A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DE2351-BB87-4DFB-BF72-555A3E154A67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC9F40DC-C3FE-4DE6-959A-FEB061D26FC6}
+	EndGlobalSection
+EndGlobal

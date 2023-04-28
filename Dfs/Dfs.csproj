@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <UserSecretsId>9f73bf65-d923-4e54-8a29-36ffdef7f87a</UserSecretsId>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>SMBLibrary.Contrib</Title>
+    <AssemblyName>SMBLibrary.Contrib.$(MSBuildProjectName)</AssemblyName>
+    <RootNamespace>SMBLibrary.Contrib.$(MSBuildProjectName.Replace(" ", "_"))</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SMBLibrary" Version="1.4.8" />
+  </ItemGroup>
+
+</Project>
